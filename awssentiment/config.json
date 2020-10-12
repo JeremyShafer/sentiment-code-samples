@@ -1,0 +1,7 @@
+{ 
+    "aws":{
+    "accessKey" :"",
+    "secretAccessKey":"",
+    "sessionToken":""
+    }
+}
